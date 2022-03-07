@@ -1,0 +1,15 @@
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.deps.json
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\ref\CleanArchitecture.Application.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\ref\CleanArchitecture.Application.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net6.0\CleanArchitecture.Application.pdb

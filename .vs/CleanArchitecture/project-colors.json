@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c456810-3a78-4fe6-8bf8-c39abaf47666": {
+      "ProjectGuid": "9c456810-3a78-4fe6-8bf8-c39abaf47666",
+      "DisplayName": "CleanArchitecture.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "665d028b-e04a-4608-9dbe-1eadeabeebb9": {
+      "ProjectGuid": "665d028b-e04a-4608-9dbe-1eadeabeebb9",
+      "DisplayName": "CleanArchitecture.Data",
+      "ColorIndex": 1
+    },
+    "316111ac-0e15-48ab-a2d9-46574adc66ae": {
+      "ProjectGuid": "316111ac-0e15-48ab-a2d9-46574adc66ae",
+      "DisplayName": "CleanArchitecture.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
