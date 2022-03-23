@@ -8,7 +8,7 @@
     },
     "665d028b-e04a-4608-9dbe-1eadeabeebb9": {
       "ProjectGuid": "665d028b-e04a-4608-9dbe-1eadeabeebb9",
-      "DisplayName": "CleanArchitecture.Data",
+      "DisplayName": "CleanArchitecture.Infrastructure",
       "ColorIndex": 1
     },
     "316111ac-0e15-48ab-a2d9-46574adc66ae": {
@@ -20,7 +20,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Archivos varios",
       "ColorIndex": -1
+    },
+    "01d22a5e-d009-4038-b41a-f38666b26551": {
+      "ProjectGuid": "01d22a5e-d009-4038-b41a-f38666b26551",
+      "DisplayName": "CleanArchitecture.Application",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

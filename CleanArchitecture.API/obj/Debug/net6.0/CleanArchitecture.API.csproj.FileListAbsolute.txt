@@ -63,3 +63,10 @@ C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanA
 C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Application.pdb
 C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
 C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\kmendoza\Documents\Personal\Cursos\Curso Clean\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
